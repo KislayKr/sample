@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_e7f41d8f624044ae7356e8fe260a9684f389d041/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/exploded-aar/AudienceNetwork/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5a24d9eafe0289d6b2afd7b51041bb72fe476952">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-AudienceNetwork_16714a3783beab0503c4389acf873e30e5e70bbe/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_459f2d7211e29391d0eb46c6c696ba519fb5fe4a/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_74053eb24cf5c3597dbee75861aae275ee7bcea9/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1741772d4014fab5e80c63910020d17a212bb5a1">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31f55f92a3e120716fb841d125b27bd05b339c69/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="acc8046c73de31b20385001008671f1d2a12c86b">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c36e0fd3da6c72020557af6982802e1f934191f/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/exploded-aar/DebugSettings/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="82ef0d2d6eba4a666b229cddbe6a2396fb4acf56">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-DebugSettings_5c00d97e78c367ecc90c79bb67dcdd337cc137a6/classes.dex" />
+    </item>
+    <item
+        jar="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/mnt/kislay/kislay/project/projects/sources/Screen Locker/library/facebook-android-sdk-4.11.0/AudienceNetwork/samples/NativeAdSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_7230da1a7e6689cfb0bb0bd216cd570b6aa663c7/classes.dex" />
+    </item>
+
+</items>
